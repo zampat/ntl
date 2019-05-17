@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://www.monitoring-plugins.org/download.html",
+  "version"           : "2.2",
+  "docfile"           : "https://www.monitoring-plugins.org/doc/man/check_apt.html",
+  "tags"              : [ "apt", "linux"]
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
