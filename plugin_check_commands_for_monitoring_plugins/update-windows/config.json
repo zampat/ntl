@@ -1,0 +1,10 @@
+{
+  "source_type"       : "msi",
+  "source_url"        : "https://packages.icinga.com/windows/",
+  "version"           : "2.10.4",
+  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#update-windows",
+  "custom_attr"       : [ "swap_win_warn", "swap_win_crit", "swap_win_unit", "swap_win_show_used" ],
+  "tags"              : [ "windows", "microsoft", "updates", "wsus", "itl" ],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
