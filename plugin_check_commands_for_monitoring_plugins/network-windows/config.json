@@ -1,0 +1,10 @@
+{
+  "source_type"       : "msi",
+  "source_url"        : "https://packages.icinga.com/windows/",
+  "version"           : "2.10.4",
+  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#network-windows",
+  "custom_attr"       : [ "network_win_warn", "network_win_crit", "network_no_isatap" ],
+  "tags"              : [ "windows", "microsoft", "network", "bandwidth", "itl" ],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

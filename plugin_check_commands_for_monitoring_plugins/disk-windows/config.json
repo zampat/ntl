@@ -1,0 +1,10 @@
+{
+  "source_type"       : "msi",
+  "source_url"        : "https://packages.icinga.com/windows/",
+  "version"           : "2.10.4",
+  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#disk-windows",
+  "custom_attr"       : [ "disk_win_warn", "disk_win_crit", "disk_win_path", "disk_win_unit", "disk_win_exclude", "disk_win_show_used" ],
+  "tags"              : [ "windows", "microsoft", "disk", "space", "itl" ],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
