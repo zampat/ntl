@@ -1,0 +1,10 @@
+{
+  "source_type"       : "msi",
+  "source_url"        : "https://packages.icinga.com/windows/",
+  "version"           : "2.10.4",
+  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#users-windows",
+  "custom_attr"       : [ "users_win_warn", "users_win_crit" ],
+  "tags"              : [ "windows", "microsoft", "users", "itl" ],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
