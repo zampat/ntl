@@ -1,0 +1,10 @@
+{
+  "source_type"       : "msi",
+  "source_url"        : "https://packages.icinga.com/windows/",
+  "version"           : "2.10.4",
+  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#procs-windows",
+  "custom_attr"       : [ "procs_win_warn", "procs_win_crit", "procs_win_user" ],
+  "tags"              : [ "windows", "microsoft", "procs", "process", "itl" ],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
