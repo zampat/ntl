@@ -2,8 +2,8 @@
   "source_type"       : "http",
   "source_url"        : "https://www.monitoring-plugins.org/download.html",
   "version"           : "2.2",
-  "docfile"           : "https://www.monitoring-plugins.org/doc/man/check_breeze.html",
-  "tags"              : [ "breeze", "linux"]
+  "docfile"           : "check_clamd.md",
+  "tags"              : [ "clamd", "linux"]
   "grafana_dashboard" : "",
   "director_basket"   : ""
 }

@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://www.monitoring-plugins.org/download.html",
+  "version"           : "2.2",
+  "docfile"           : "check_file_age.md",
+  "tags"              : [ "file age", "linux" ]
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

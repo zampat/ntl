@@ -2,7 +2,7 @@
   "source_type"       : "git",
   "source_url"        : "https://github.com/thomas-krenn/check_adaptec_raid",
   "version"           : "2.2",
-  "docfile"           : "https://github.com/thomas-krenn/check_adaptec_raid/blob/master/README.md",
+  "docfile"           : "check_adaptec_raid.md",
   "tags"              : [ "hardware", "controller", "raid", "adaptec" ]
   "grafana_dashboard" : "",
   "director_basket"   : ""

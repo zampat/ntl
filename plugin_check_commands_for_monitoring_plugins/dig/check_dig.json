@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://www.monitoring-plugins.org/download.html",
+  "version"           : "2.2",
+  "docfile"           : "check_dig.md",
+  "tags"              : [ "dig", "linux", "dns"]
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
