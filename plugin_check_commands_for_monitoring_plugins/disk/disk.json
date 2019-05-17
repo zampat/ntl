@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://github.com/thomas-krenn/check_adaptec_raid",
+  "version"           : "2.2",
+  "docfile"           : "https://www.monitoring-plugins.org/doc/man/check_disk.html",
+  "tags"              : [ "disk", "linux"]
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
