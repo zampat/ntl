@@ -3,7 +3,7 @@
   "source_url"        : "https://www.monitoring-plugins.org/download.html",
   "version"           : "2.2",
   "docfile"           : "check_dns.md",
-  "tags"              : [ "dns", "linux" ]
+  "tags"              : [ "dns", "linux" ],
   "grafana_dashboard" : "",
   "director_basket"   : ""
 }

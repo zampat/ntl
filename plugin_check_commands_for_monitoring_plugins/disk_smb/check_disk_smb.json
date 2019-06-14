@@ -3,7 +3,7 @@
   "source_url"        : "https://www.monitoring-plugins.org/download.html",
   "version"           : "2.2",
   "docfile"           : "check_disk_smb.md",
-  "tags"              : [ "disk", "linux", "smb"]
+  "tags"              : [ "disk", "linux", "smb"],
   "grafana_dashboard" : "",
   "director_basket"   : ""
 }
