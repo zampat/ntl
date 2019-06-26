@@ -1,0 +1,9 @@
+{
+  "source_type"       : "msi",
+  "source_url"        : "https://packages.icinga.com/windows/",
+  "version"           : "2.10.4",
+  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#memory-windows",
+  "custom_attr"       : [ "memory_win_warn", "memory_win_crit", "memory_win_unit", "memory_win_show_used" ],
+  "tags"              : [ "windows", "microsoft", "ram", "memory", "itl" ],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
