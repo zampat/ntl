@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://www.monitoring-plugins.org/download.html",
+  "version"           : "2.2",
+  "docfile"           : "check_radius.md",
+  "tags"              : [ "radius", "check_radius", "linux" ],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
