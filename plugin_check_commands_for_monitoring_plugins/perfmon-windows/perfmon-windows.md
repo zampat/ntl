@@ -1,0 +1,3 @@
+Check command object for the check_perfmon.exe plugin. This plugins allows to collect data from a Performance Counter. After the first data collection a second one is done after perfmon_win_wait milliseconds. When you know perfmon_win_counter only requires one set of data to provide valid data you can set perfmon_win_wait to 0.
+
+https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#perfmon-windows

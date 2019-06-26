@@ -1,0 +1,3 @@
+Check command object for check_service.exe plugin. This checks thresholds work different since the binary decision whether a service is running or not does not allow for three states. As a default check_service.exe will return CRITICAL when service_win_service is not running, the service_win_warn flag changes this to WARNING.
+
+https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#service-windows
