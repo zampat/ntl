@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "git",
+  "source_url"        : "https://github.com/bucardo/check_postgres/blob/master/check_postgres.pl",
+  "version"           : "2.24",
+  "docfile"           : "https://github.com/bucardo/check_postgres/blob/master/README.md",
+  "tags"              : [ "database", "postgres", "health"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

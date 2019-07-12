@@ -1,8 +1,8 @@
  {
   "source_type"       : "git",
   "source_url"        : "https://github.com/miso231/icinga2-cloudera-plugin",
-  "version"           : "1.2",
-  "docfile"           : "cloudera_service_status.md",
+  "version"           : "",
+  "docfile"           : "https://github.com/miso231/icinga2-cloudera-plugin/blob/master/readme.md",
   "tags"              : [ "cloudera"],
   "grafana_dashboard" : "",
   "director_basket"   : ""

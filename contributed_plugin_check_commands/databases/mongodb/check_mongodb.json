@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "git",
+  "source_url"        : "https://github.com/mzupan/nagios-plugin-mongodb/blob/master/check_mongodb.py",
+  "version"           : "",
+  "docfile"           : "check_mongo.md",
+  "tags"              : [ "database", "mongodb", "health"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

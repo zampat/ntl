@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "git",
+  "source_url"        : "https://github.com/thomas-krenn/check_adaptec_raid/blob/master/check_adaptec_raid",
+  "version"           : "2.2",
+  "docfile"           : "check_adaptec_raid.md",
+  "tags"              : [ "hardware", "adaptec raid", "health"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
