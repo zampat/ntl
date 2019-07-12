@@ -1,9 +1,10 @@
  {
   "source_type"       : "http",
-  "source_url"        : "http://nagios.manubulon.com/snmp_load.html",
+  "source_url"        : "http://nagios.manubulon.com/check_snmp_load.pl",
   "version"           : "1.3.2",
   "docfile"           : "check_snmp_load.md",
-  "tags"              : [ "snmp", "cisco", "nokia", "bluecoat", "ironport", "foundry"],
+  "tags"              : [ "snmp", "load", "Windows", "Linux/Unix", "AS400", "Cisco", "Cisco catalyst", "HP Procurve", "LinkProof", "Blucoat", "Nokia", "Fortinet", "Netscreen"],
   "grafana_dashboard" : "",
   "director_basket"   : ""
 }
+
