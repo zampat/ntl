@@ -1,17 +1,20 @@
-Checks by snmp v1, v2c or v3 environemental parameters such as fan, power supply, temperature
+Checks by snmp v1, v2c or v3 cpu or average load. 
+Works on Windows, Linux/Unix, AS400, Cisco, Cisco catalyst, HP Procurve, LinkProof, Blucoat, Nokia, Fortinet, Netscreen.
 
-
-http://nagios.manubulon.com/snmp_env.html
+http://nagios.manubulon.com/snmp_load.html
 
 Get help
 
-./check_snmp_env.pl -h
+./check_snmp_load.pl -h
 
-Verbose output	./check_snmp_env.pl -H <IP> -C <com> -v
-snmpv3 login	./check_snmp_env.pl -H 127.0.0.1 -l login -x passwd
-Check Cisco for all sensors
+Check loads on linux with Net-SNMP : checks the 1, 5 and 15 minutes load average.
 
-./check_snmp_env.pl -H 127.0.0.1 -C public -T cisco
+./check_snmp_load.pl -H 127.0.0.1 -C public -w 3,3,2 -c 4,4,3 -T netsl
 
-Check Nokia for all sensors	./check_snmp_env.pl -H 127.0.0.1 -C public -T nokia
-checks ironport fans RPM > 1500 and temp < 70 deg celcius	./check_snmp_env.pl -H 127.0.0.1 -C public -T iron -F 1500 -c 7
+Check cpu load (generic) : checks the %used CPU for the last minute
+
+./check_snmp_load.pl -H 127.0.0.1 -C public -w 98% -c 99%
+
+Check cpu load on AS/400
+
+./check_snmp_load.pl -H 127.0.0.1 -C public -w 98% -c 99% -T as400
