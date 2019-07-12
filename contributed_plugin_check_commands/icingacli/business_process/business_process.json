@@ -1,5 +1,5 @@
  {
-  "source_type"       : "icinga",
+  "source_type"       : "http",
   "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#business-process",
   "version"           : "",
   "docfile"           : "business_process.md",
