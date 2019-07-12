@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-disk",
+  "version"           : "",
+  "docfile"           : "nscp-local-disk.md",
+  "tags"              : [ "nscp-local-disk", "linux", "windows", "nscp", "nsclient++", "check_pdh", "disk", "check_drivesize"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
