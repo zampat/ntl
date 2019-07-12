@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-uptime",
+  "version"           : "",
+  "docfile"           : "check_uptime.md",
+  "tags"              : [ "nscp-local-uptime", "linux", "windows", "nscp", "nsclient++", "uptime", "check_uptime"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

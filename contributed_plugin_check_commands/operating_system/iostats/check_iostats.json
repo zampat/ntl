@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "git",
+  "source_url"        : "https://github.com/dnsmichi/icinga-plugins/blob/master/scripts/check_iostats",
+  "version"           : "0.0.2",
+  "docfile"           : "check_iostats.md",
+  "tags"              : [ "operating_system", "linux", "iostats", "iostat", "io"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

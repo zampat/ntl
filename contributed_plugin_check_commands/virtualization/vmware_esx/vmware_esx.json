@@ -1,5 +1,5 @@
 {
-  "source_type"       : "http",
+  "source_type"       : "git",
   "source_url"        : "https://github.com/BaldMansMojo/check_vmware_esx",
   "version"           : "1.2.1",
   "docfile"           : "check_vmware_esx.md",

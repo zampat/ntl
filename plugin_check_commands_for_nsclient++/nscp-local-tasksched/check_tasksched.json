@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-tasksched",
+  "version"           : "",
+  "docfile"           : "check_tasksched.md",
+  "tags"              : [ "nscp-local-tasksched", "linux", "windows", "nscp", "nsclient++", "tasksched", "check_tasksched"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
