@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-pagefile",
+  "version"           : "",
+  "docfile"           : "check_pagefile.md",
+  "tags"              : [ "nscp-local-pagefile", "linux", "windows", "nscp", "nsclient++", "pagefile", "check_pagefile"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
