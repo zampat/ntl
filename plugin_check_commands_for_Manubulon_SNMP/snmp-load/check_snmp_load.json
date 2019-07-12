@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "http",
+  "source_url"        : "http://nagios.manubulon.com/snmp_load.html",
+  "version"           : "1.3.2",
+  "docfile"           : "check_snmp_load.md",
+  "tags"              : [ "snmp", "cisco", "nokia", "bluecoat", "ironport", "foundry"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
