@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "git",
+  "source_url"        : "https://github.com/justintime/nagios-plugins",
+  "version"           : "",
+  "docfile"           : "check_mem.md",
+  "tags"              : [ "operating_system", "linux", "memory"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

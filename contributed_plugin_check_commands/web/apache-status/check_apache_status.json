@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "git",
+  "source_url"        : "https://github.com/lbetz/check_apache_status",
+  "version"           : "1.4.0",
+  "docfile"           : "check_apache_status.md",
+  "tags"              : [ "web", "apache", "apache status"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

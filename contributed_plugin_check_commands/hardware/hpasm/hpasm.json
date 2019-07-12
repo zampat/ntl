@@ -1,0 +1,9 @@
+ {
+  "source_type"       : "html",
+  "source_url"        : "https://labs.consol.de/de/nagios/check_hpasm/index.html",
+  "version"           : "4.8",
+  "docfile"           : "check_hpasm.md",
+  "tags"              : [ "hardware", "hp", "health", "msa"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
