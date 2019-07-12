@@ -2,7 +2,7 @@
   "source_type"       : "http",
   "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-cpu",
   "version"           : "",
-  "docfile"           : "nscp-local-cpu.md",
+  "docfile"           : "check_cpu.md",
   "tags"              : [ "nscp-local-cpu", "linux", "windows", "nscp", "nsclient++", "check_cpu"],
   "grafana_dashboard" : "",
   "director_basket"   : ""

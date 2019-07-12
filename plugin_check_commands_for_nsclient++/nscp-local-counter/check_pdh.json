@@ -2,7 +2,7 @@
   "source_type"       : "http",
   "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-counter",
   "version"           : "",
-  "docfile"           : "nscp-local-counter.md",
+  "docfile"           : "check_pdh.md",
   "tags"              : [ "nscp_local_counter", "linux", "windows", "nscp", "nsclient++", "check_pdh"],
   "grafana_dashboard" : "",
   "director_basket"   : ""
