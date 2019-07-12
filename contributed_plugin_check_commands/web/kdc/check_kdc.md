@@ -1,0 +1,1 @@
+https://exchange.nagios.org/directory/Plugins/Security/check_kdc/details

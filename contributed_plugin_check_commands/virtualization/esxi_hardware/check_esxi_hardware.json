@@ -1,9 +1,9 @@
- {
-  "source_type"       : "html",
+{
+  "source_type"       : "http",
   "source_url"        : "https://www.claudiokuenzler.com/monitoring-plugins/check_esxi_hardware.py",
   "version"           : "20190701",
   "docfile"           : "check_esxi_hardware.md",
-  "tags"              : [ "virtualization", "vmware", "esx"],
+  "tags"              : [ "esxi_hardware", "check_esxi_hardware", "esxi", "vmware", "hardware"],
   "grafana_dashboard" : "",
   "director_basket"   : ""
 }

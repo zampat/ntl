@@ -1,0 +1,1 @@
+https://github.com/regilero/check_nginx_status/blob/master/README.md

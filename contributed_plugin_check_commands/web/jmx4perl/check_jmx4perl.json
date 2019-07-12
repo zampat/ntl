@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "http://search.cpan.org/~roland/jmx4perl/scripts/check_jmx4perl",
+  "version"           : "1.12",
+  "docfile"           : "check_jmx4perl.md",
+  "tags"              : [ "jmx4perl", "check_jmx4perl", "web", "jmx"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

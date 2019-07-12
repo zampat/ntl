@@ -1,0 +1,1 @@
+https://metacpan.org/pod/distribution/jmx4perl/scripts/check_jmx4perl

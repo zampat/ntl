@@ -1,0 +1,9 @@
+{
+  "source_type"       : "http",
+  "source_url"        : "https://labs.consol.de/assets/downloads/check_webinject-1.84.tar.gz",
+  "version"           : "1.84",
+  "docfile"           : "check_webinject.md",
+  "tags"              : [ "webinject", "check_webinject", "web", "apache"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}

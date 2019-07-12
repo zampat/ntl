@@ -1,0 +1,1 @@
+https://exchange.icinga.com/exchange/check_squid
