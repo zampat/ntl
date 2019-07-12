@@ -1,0 +1,10 @@
+ {
+  "source_type"       : "http",
+  "source_url"        : "http://nagios.manubulon.com/check_snmp_int.pl",
+  "version"           : "1.4.8",
+  "docfile"           : "check_snmp_int.md",
+  "tags"              : [ "snmp", "interface"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
+

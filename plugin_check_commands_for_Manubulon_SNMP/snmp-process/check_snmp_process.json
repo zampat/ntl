@@ -1,0 +1,10 @@
+ {
+  "source_type"       : "http",
+  "source_url"        : "http://nagios.manubulon.com/check_snmp_process.pl",
+  "version"           : "1.5",
+  "docfile"           : "check_snmp_process.md",
+  "tags"              : [ "snmp", "process", "Linux/Unix", "Windows"],
+  "grafana_dashboard" : "",
+  "director_basket"   : ""
+}
+
