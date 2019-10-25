@@ -3,7 +3,7 @@
   "source_url"        : "https://github.com/Icinga/icinga-template-library/blob/master/itl/command-icinga.conf",
   "version"           : "1",
   "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#ido",
-  "tags"              : [ "icinga", "built-in", "ido" ]
+  "tags"              : [ "icinga", "built-in", "ido" ],
   "grafana_dashboard" : "",
   "director_basket"   : ""
 }
