@@ -1,10 +1,26 @@
 {
-  "source_type"       : "",
-  "source_url"        : "https://packages.icinga.com/",
-  "version"           : "2.10.4",
-  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp_local_cpu",
-  "custom_attr"       : [ "nscp_cpu_time", "nscp_cpu_warning", "nscp_cpu_critical", "nscp_cpu_arguments", "nscp_cpu_showall" ],
-  "tags"              : [ "windows", "linux", "nsclient", "nscp", "nscp_local_cpu", "cpu", "itl" ],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "",
+  "source_url": "https://packages.icinga.com/",
+  "version": "2.10.4",
+  "docfile": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp_local_cpu",
+  "custom_attr": [
+    "nscp_cpu_time",
+    "nscp_cpu_warning",
+    "nscp_cpu_critical",
+    "nscp_cpu_arguments",
+    "nscp_cpu_showall"
+  ],
+  "tags": [
+    "windows",
+    "linux",
+    "nsclient",
+    "nscp",
+    "nscp_local_cpu",
+    "cpu",
+    "itl"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

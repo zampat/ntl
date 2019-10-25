@@ -1,9 +1,14 @@
- {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/widhalmt/check_logstash",
-  "version"           : "0.7.3-0",
-  "docfile"           : "check_logstash.md",
-  "tags"              : [ "log_management", "logstash"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "git",
+  "source_url": "https://github.com/widhalmt/check_logstash",
+  "version": "0.7.3-0",
+  "docfile": "check_logstash.md",
+  "tags": [
+    "log_management",
+    "logstash"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

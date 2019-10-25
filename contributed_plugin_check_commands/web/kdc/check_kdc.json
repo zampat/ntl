@@ -1,9 +1,16 @@
 {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/lbetz/check_apache_status",
-  "version"           : "",
-  "docfile"           : "check_apache_status.md",
-  "tags"              : [ "apache_status", "check_apache_status", "web", "apache"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "git",
+  "source_url": "https://github.com/lbetz/check_apache_status",
+  "version": "",
+  "docfile": "check_apache_status.md",
+  "tags": [
+    "apache_status",
+    "check_apache_status",
+    "web",
+    "apache"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

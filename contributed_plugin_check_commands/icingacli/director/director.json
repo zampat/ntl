@@ -1,9 +1,15 @@
- {
-  "source_type"       : "http",
-  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#director",
-  "version"           : "",
-  "docfile"           : "director.md",
-  "tags"              : [ "icinga", "director", "icingacli"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "http",
+  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#director",
+  "version": "",
+  "docfile": "director.md",
+  "tags": [
+    "icinga",
+    "director",
+    "icingacli"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

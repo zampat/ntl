@@ -1,9 +1,15 @@
- {
-  "source_type"       : "http",
-  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#ipmi-alive",
-  "version"           : "",
-  "docfile"           : "check_ipmi_alive.md",
-  "tags"              : [ "ipmi", "health", "ipmi-alive"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "http",
+  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#ipmi-alive",
+  "version": "",
+  "docfile": "check_ipmi_alive.md",
+  "tags": [
+    "ipmi",
+    "health",
+    "ipmi-alive"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

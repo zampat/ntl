@@ -1,9 +1,15 @@
- {
-  "source_type"       : "http",
-  "source_url"        : "https://packages.debian.org/stretch/nagios-plugins-contrib",
-  "version"           : "",
-  "docfile"           : "check_running_kernel.md",
-  "tags"              : [ "operating_system", "linux", "kernel"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "http",
+  "source_url": "https://packages.debian.org/stretch/nagios-plugins-contrib",
+  "version": "",
+  "docfile": "check_running_kernel.md",
+  "tags": [
+    "operating_system",
+    "linux",
+    "kernel"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

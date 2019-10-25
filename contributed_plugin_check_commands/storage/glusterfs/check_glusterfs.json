@@ -1,9 +1,14 @@
- {
-  "source_type"       : "html",
-  "source_url"        : "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
-  "version"           : "",
-  "docfile"           : "check_glusterfs.md",
-  "tags"              : [ "storage", "glusterfs"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "html",
+  "source_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
+  "version": "",
+  "docfile": "check_glusterfs.md",
+  "tags": [
+    "storage",
+    "glusterfs"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

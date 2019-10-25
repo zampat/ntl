@@ -1,9 +1,16 @@
- {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/thomas-krenn/check_smart_attributes/blob/master/check_smart_attributes",
-  "version"           : "1.6",
-  "docfile"           : "check_smart_attributes.md",
-  "tags"              : [ "hardware", "S.M.A.R.T.", "ssd", "hdd"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "git",
+  "source_url": "https://github.com/thomas-krenn/check_smart_attributes/blob/master/check_smart_attributes",
+  "version": "1.6",
+  "docfile": "check_smart_attributes.md",
+  "tags": [
+    "hardware",
+    "S.M.A.R.T.",
+    "ssd",
+    "hdd"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

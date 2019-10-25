@@ -1,9 +1,15 @@
- {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/calestyo/check_yum/blob/master/check_yum",
-  "version"           : "1.1.0",
-  "docfile"           : "check_yum.md",
-  "tags"              : [ "operating_system", "linux", "yum"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "git",
+  "source_url": "https://github.com/calestyo/check_yum/blob/master/check_yum",
+  "version": "1.1.0",
+  "docfile": "check_yum.md",
+  "tags": [
+    "operating_system",
+    "linux",
+    "yum"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

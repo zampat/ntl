@@ -1,9 +1,18 @@
- {
-  "source_type"       : "http",
-  "source_url"        : "https://exchange.icinga.com/exchange/iftraffic64",
-  "version"           : "",
-  "docfile"           : "check_iftraffic.md",
-  "tags"              : [ "network_component", "interfaces", "traffic", "bandwidth", "iftraffic64", "iftraffic"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "http",
+  "source_url": "https://exchange.icinga.com/exchange/iftraffic64",
+  "version": "",
+  "docfile": "check_iftraffic.md",
+  "tags": [
+    "network_component",
+    "interfaces",
+    "traffic",
+    "bandwidth",
+    "iftraffic64",
+    "iftraffic"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

@@ -1,9 +1,18 @@
 {
-  "source_type"       : "http",
-  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp_api",
-  "version"           : "",
-  "docfile"           : "check_nscp_api.md",
-  "tags"              : [ "nscp_api", "linux", "windows", "check_nscp_api", "nscp", "nsclient++"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "http",
+  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp_api",
+  "version": "",
+  "docfile": "check_nscp_api.md",
+  "tags": [
+    "nscp_api",
+    "linux",
+    "windows",
+    "check_nscp_api",
+    "nscp",
+    "nsclient++"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

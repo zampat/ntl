@@ -1,9 +1,15 @@
 {
-  "source_type"       : "http",
-  "source_url"        : "https://www.monitoring-plugins.org/download.html",
-  "version"           : "2.2",
-  "docfile"           : "check_udp.md",
-  "tags"              : [ "udp", "check_udp", "linux" ],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "http",
+  "source_url": "https://www.monitoring-plugins.org/download.html",
+  "version": "2.2",
+  "docfile": "check_udp.md",
+  "tags": [
+    "udp",
+    "check_udp",
+    "linux"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

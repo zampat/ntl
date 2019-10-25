@@ -1,10 +1,25 @@
 {
-  "source_type"       : "msi",
-  "source_url"        : "https://packages.icinga.com/windows/",
-  "version"           : "2.10.4",
-  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#perfmon-windows",
-  "custom_attr"       : [ "perfmon_win_warn", "perfmon_win_crit", "perfmon_win_counter", "perfmon_win_wait", "perfmon_win_type", "perfmon_win_syntax"],
-  "tags"              : [ "windows", "microsoft", "perfmon", "performance", "itl" ],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "msi",
+  "source_url": "https://packages.icinga.com/windows/",
+  "version": "2.10.4",
+  "docfile": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#perfmon-windows",
+  "custom_attr": [
+    "perfmon_win_warn",
+    "perfmon_win_crit",
+    "perfmon_win_counter",
+    "perfmon_win_wait",
+    "perfmon_win_type",
+    "perfmon_win_syntax"
+  ],
+  "tags": [
+    "windows",
+    "microsoft",
+    "perfmon",
+    "performance",
+    "itl"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

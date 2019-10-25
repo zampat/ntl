@@ -1,9 +1,16 @@
 {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/regilero/check_nginx_status",
-  "version"           : "0.20",
-  "docfile"           : "check_nginx_status.md",
-  "tags"              : [ "nginx_status", "check_nginx_status", "web", "nginx"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "git",
+  "source_url": "https://github.com/regilero/check_nginx_status",
+  "version": "0.20",
+  "docfile": "check_nginx_status.md",
+  "tags": [
+    "nginx_status",
+    "check_nginx_status",
+    "web",
+    "nginx"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

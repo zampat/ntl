@@ -1,9 +1,19 @@
 {
-  "source_type"       : "http",
-  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-service",
-  "version"           : "",
-  "docfile"           : "check_service.md",
-  "tags"              : [ "nscp-local-service", "linux", "windows", "nscp", "nsclient++", "service", "check_service"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "http",
+  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-service",
+  "version": "",
+  "docfile": "check_service.md",
+  "tags": [
+    "nscp-local-service",
+    "linux",
+    "windows",
+    "nscp",
+    "nsclient++",
+    "service",
+    "check_service"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

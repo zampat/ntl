@@ -1,9 +1,15 @@
- {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/willixix/naglio-plugins/blob/master/check_redis.pl",
-  "version"           : "0.73",
-  "docfile"           : "check_redis.md",
-  "tags"              : [ "database", "redis", "health"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "git",
+  "source_url": "https://github.com/willixix/naglio-plugins/blob/master/check_redis.pl",
+  "version": "0.73",
+  "docfile": "check_redis.md",
+  "tags": [
+    "database",
+    "redis",
+    "health"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

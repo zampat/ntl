@@ -1,9 +1,15 @@
- {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/anchor/nagios-plugin-elasticsearch/blob/master/check_elasticsearch",
-  "version"           : "",
-  "docfile"           : "check_elasticsearch.md",
-  "tags"              : [ "database", "elasticsearch", "health"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "git",
+  "source_url": "https://github.com/anchor/nagios-plugin-elasticsearch/blob/master/check_elasticsearch",
+  "version": "",
+  "docfile": "check_elasticsearch.md",
+  "tags": [
+    "database",
+    "elasticsearch",
+    "health"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

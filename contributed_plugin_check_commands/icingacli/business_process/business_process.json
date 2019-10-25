@@ -1,9 +1,14 @@
- {
-  "source_type"       : "http",
-  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#business-process",
-  "version"           : "",
-  "docfile"           : "business_process.md",
-  "tags"              : [ "icinga", "business process"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "http",
+  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#business-process",
+  "version": "",
+  "docfile": "business_process.md",
+  "tags": [
+    "icinga",
+    "business process"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

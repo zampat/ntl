@@ -1,9 +1,19 @@
 {
-  "source_type"       : "http",
-  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-process",
-  "version"           : "",
-  "docfile"           : "check_process.md",
-  "tags"              : [ "nscp-local-process", "linux", "windows", "nscp", "nsclient++", "process", "check_process"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "http",
+  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-process",
+  "version": "",
+  "docfile": "check_process.md",
+  "tags": [
+    "nscp-local-process",
+    "linux",
+    "windows",
+    "nscp",
+    "nsclient++",
+    "process",
+    "check_process"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

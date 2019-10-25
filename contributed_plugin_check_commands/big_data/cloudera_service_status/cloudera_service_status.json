@@ -1,9 +1,13 @@
- {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/miso231/icinga2-cloudera-plugin",
-  "version"           : "",
-  "docfile"           : "https://github.com/miso231/icinga2-cloudera-plugin/blob/master/readme.md",
-  "tags"              : [ "cloudera"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "git",
+  "source_url": "https://github.com/miso231/icinga2-cloudera-plugin",
+  "version": "",
+  "docfile": "https://github.com/miso231/icinga2-cloudera-plugin/blob/master/readme.md",
+  "tags": [
+    "cloudera"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

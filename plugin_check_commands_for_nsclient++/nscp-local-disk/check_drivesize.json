@@ -1,9 +1,19 @@
 {
-  "source_type"       : "http",
-  "source_url"        : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-disk",
-  "version"           : "",
-  "docfile"           : "check_drivesize.md",
-  "tags"              : [ "nscp-local-disk", "linux", "windows", "nscp", "nsclient++", "disk", "check_drivesize"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "http",
+  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-disk",
+  "version": "",
+  "docfile": "check_drivesize.md",
+  "tags": [
+    "nscp-local-disk",
+    "linux",
+    "windows",
+    "nscp",
+    "nsclient++",
+    "disk",
+    "check_drivesize"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

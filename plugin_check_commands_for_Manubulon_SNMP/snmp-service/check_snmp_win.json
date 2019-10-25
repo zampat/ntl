@@ -1,10 +1,15 @@
- {
-  "source_type"       : "http",
-  "source_url"        : "http://nagios.manubulon.com/check_snmp_win.pl",
-  "version"           : "0.6",
-  "docfile"           : "check_snmp_win.md",
-  "tags"              : [ "snmp", "service", "Windows"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "http",
+  "source_url": "http://nagios.manubulon.com/check_snmp_win.pl",
+  "version": "0.6",
+  "docfile": "check_snmp_win.md",
+  "tags": [
+    "snmp",
+    "service",
+    "Windows"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }
-

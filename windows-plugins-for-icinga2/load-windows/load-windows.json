@@ -1,10 +1,21 @@
 {
-  "source_type"       : "msi",
-  "source_url"        : "https://packages.icinga.com/windows/",
-  "version"           : "2.10.4",
-  "docfile"           : "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#load-windows",
-  "custom_attr"       : [ "load_win_warn", "load_win_crit" ],
-  "tags"              : [ "windows", "microsoft", "cpu", "load", "itl" ],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+  "source_type": "msi",
+  "source_url": "https://packages.icinga.com/windows/",
+  "version": "2.10.4",
+  "docfile": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#load-windows",
+  "custom_attr": [
+    "load_win_warn",
+    "load_win_crit"
+  ],
+  "tags": [
+    "windows",
+    "microsoft",
+    "cpu",
+    "load",
+    "itl"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }

@@ -1,9 +1,15 @@
- {
-  "source_type"       : "git",
-  "source_url"        : "https://github.com/thomas-krenn/check_lsi_raid/blob/master/check_lsi_raid",
-  "version"           : "2.5",
-  "docfile"           : "check_lsi_raid.md",
-  "tags"              : [ "hardware", "lsi raid", "health"],
-  "grafana_dashboard" : "",
-  "director_basket"   : ""
+{
+  "source_type": "git",
+  "source_url": "https://github.com/thomas-krenn/check_lsi_raid/blob/master/check_lsi_raid",
+  "version": "2.5",
+  "docfile": "check_lsi_raid.md",
+  "tags": [
+    "hardware",
+    "lsi raid",
+    "health"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigates": "no"
 }
