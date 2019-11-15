@@ -11,7 +11,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "storage",
+  "downloadable": "yes",
+  "plugin_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs"
 }
