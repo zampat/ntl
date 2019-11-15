@@ -12,6 +12,6 @@
   "source_path": "",
   "to_be_investigates": "no",
   "category": "metrics",
-  "downloadable": "no",
+  "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/obfuscurity/nagios-scripts/master/check_graphite"
 }
