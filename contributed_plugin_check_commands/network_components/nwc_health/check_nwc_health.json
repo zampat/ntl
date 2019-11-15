@@ -1,7 +1,7 @@
 {
   "source_type": "git",
-  "source_project_url": "https://labs.consol.de/assets/downloads/nagios/check_nwc_health-7.10.0.1.tar.gz",
-  "version": "7.10.0.1",
+  "source_project_url": "https://labs.consol.de/nagios/check_nwc_health/",
+  "version": "7.10.1.1",
   "docfile": "check_nwc_health.md",
   "tags": [
     "network_component",
@@ -16,7 +16,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
+  "category": "network_components",
   "downloadable": "no",
   "plugin_url": ""
 }
