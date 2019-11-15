@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://github.com/thomas-krenn/check_ipmi_sensor_v3",
+  "source_url": "https://raw.githubusercontent.com/thomas-krenn/check_ipmi_sensor_v3/master/check_ipmi_sensor",
   "version": "3",
   "docfile": "check_ipmi_sensor.md",
   "tags": [
