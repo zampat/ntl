@@ -1,6 +1,6 @@
 {
-  "source_type": "http",
-  "source_project_url": "https://exchange.icinga.com/exchange/iftraffic",
+  "source_type": "git",
+  "source_project_url": "https://github.com/NETWAYS/check_iftraffic",
   "version": "1.0.2",
   "docfile": "check_iftraffic.md",
   "tags": [
@@ -13,7 +13,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "network_components",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/NETWAYS/check_iftraffic/master/check_iftraffic.pl"
 }
