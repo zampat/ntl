@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_project_url": "https://github.com/thomas-krenn/check_smart_attributes/blob/master/check_smart_attributes",
+  "source_project_url": "https://github.com/thomas-krenn/check_smart_attributes",
   "version": "1.6",
   "docfile": "check_smart_attributes.md",
   "tags": [
@@ -15,5 +15,5 @@
   "to_be_investigates": "no",
   "category": "",
   "downloadable": "no",
-  "plugin_url": ""
+  "plugin_url": "https://github.com/thomas-krenn/check_smart_attributes/raw/master/check_smart_attributes"
 }
