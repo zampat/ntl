@@ -11,7 +11,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "log_management",
+  "downloadable": "yes",
+  "plugin_url": "https://github.com/widhalmt/check_logstash/raw/master/check_logstash"
 }
