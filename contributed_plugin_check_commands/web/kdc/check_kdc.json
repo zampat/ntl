@@ -1,19 +1,16 @@
 {
-  "source_type": "git",
-  "source_project_url": "https://github.com/lbetz/check_apache_status",
+  "source_type": "http",
+  "source_project_url": "https://exchange.nagios.org/directory/Plugins/Security/check_kdc/details",
   "version": "",
-  "docfile": "check_apache_status.md",
+  "docfile": "check_kdc.md",
   "tags": [
-    "apache_status",
-    "check_apache_status",
-    "web",
-    "apache"
+    "kerberos"
   ],
   "grafana_dashboard": "",
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
+  "category": "network",
   "downloadable": "no",
   "plugin_url": ""
 }
