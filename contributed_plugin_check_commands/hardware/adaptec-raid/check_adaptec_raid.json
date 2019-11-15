@@ -12,7 +12,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "hardware",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_adaptec_raid/master/check_adaptec_raid"
 }
