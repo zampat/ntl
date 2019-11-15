@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_project_url": "https://github.com/thomas-krenn/check_lsi_raid/blob/master/check_lsi_raid",
+  "source_project_url": "https://github.com/thomas-krenn/check_lsi_raid",
   "version": "2.5",
   "docfile": "check_lsi_raid.md",
   "tags": [
@@ -12,7 +12,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
+  "category": "hardware",
   "downloadable": "no",
-  "plugin_url": ""
+  "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_lsi_raid/master/check_lsi_raid"
 }
