@@ -19,5 +19,8 @@
   "grafana_dashboard": "",
   "director_basket": "",
   "source_path": "",
-  "to_be_investigates": "no"
+  "to_be_investigates": "no",
+  "category": "",
+  "downloadable": "no",
+  "plugin_url": ""
 }
