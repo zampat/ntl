@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_project_url": "https://www.claudiokuenzler.com/monitoring-plugins/check_esxi_hardware.py",
+  "source_project_url": "https://www.claudiokuenzler.com/monitoring-plugins/check_esxi_hardware.php",
   "version": "20190701",
   "docfile": "check_esxi_hardware.md",
   "tags": [
@@ -14,7 +14,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "virtualization",
+  "downloadable": "yes",
+  "plugin_url": "https://www.claudiokuenzler.com/monitoring-plugins/check_esxi_hardware.py"
 }
