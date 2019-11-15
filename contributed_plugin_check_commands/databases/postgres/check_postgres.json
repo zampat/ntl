@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_project_url": "https://github.com/bucardo/check_postgres/blob/master/check_postgres.pl",
+  "source_project_url": "https://github.com/bucardo/check_postgres",
   "version": "2.24",
   "docfile": "https://github.com/bucardo/check_postgres/blob/master/README.md",
   "tags": [
@@ -12,7 +12,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "databases",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/bucardo/check_postgres/master/check_postgres.pl"
 }
