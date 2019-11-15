@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_project_url": "https://github.com/lbetz/check_ssl_cert",
+  "source_project_url": "https://github.com/matteocorti/check_ssl_cert",
   "version": "",
   "docfile": "check_ssl_cert.md",
   "tags": [
@@ -13,7 +13,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "web",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_ssl_cert/master/check_ssl_cert"
 }
