@@ -2,7 +2,7 @@
   "source_type": "http",
   "source_project_url": "https://exchange.nagios.org/directory/Plugins/Network-Connections%2C-Stats-and-Bandwidth/check_iftraffic64/details",
   "version": "0.77",
-  "docfile": "check_iftraffic.md",
+  "docfile": "check_iftraffic64.md",
   "tags": [
     "network_component",
     "interfaces",
