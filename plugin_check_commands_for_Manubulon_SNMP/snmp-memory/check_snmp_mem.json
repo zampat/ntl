@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "http://nagios.manubulon.com/check_snmp_mem.pl",
+  "source_project_url": "http://nagios.manubulon.com/check_snmp_mem.pl",
   "version": "1.1",
   "docfile": "check_snmp_mem.md",
   "tags": [

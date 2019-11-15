@@ -1,6 +1,6 @@
 {
   "source_type": "",
-  "source_url": "https://packages.icinga.com/",
+  "source_project_url": "https://packages.icinga.com/",
   "version": "2.10.4",
   "docfile": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp_local_cpu",
   "custom_attr": [

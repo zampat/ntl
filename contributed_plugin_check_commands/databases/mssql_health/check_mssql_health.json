@@ -1,6 +1,6 @@
 {
   "source_type": "html",
-  "source_url": "https://labs.consol.de/nagios/check_mssql_health/index.html",
+  "source_project_url": "https://labs.consol.de/nagios/check_mssql_health/index.html",
   "version": "2.6.4.14",
   "docfile": "check_mssql_health.md",
   "tags": [

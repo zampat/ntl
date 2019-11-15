@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "http://nagios.manubulon.com/snmp_env.html",
+  "source_project_url": "http://nagios.manubulon.com/snmp_env.html",
   "version": "1.2",
   "docfile": "check_snmp_env.md",
   "tags": [

@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://labs.consol.de/assets/downloads/check_webinject-1.84.tar.gz",
+  "source_project_url": "https://labs.consol.de/assets/downloads/check_webinject-1.84.tar.gz",
   "version": "1.84",
   "docfile": "check_webinject.md",
   "tags": [

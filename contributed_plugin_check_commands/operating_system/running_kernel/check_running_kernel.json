@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://packages.debian.org/stretch/nagios-plugins-contrib",
+  "source_project_url": "https://packages.debian.org/stretch/nagios-plugins-contrib",
   "version": "",
   "docfile": "check_running_kernel.md",
   "tags": [

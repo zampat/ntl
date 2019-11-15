@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://www.monitoring-plugins.org/download.html",
+  "source_project_url": "https://www.monitoring-plugins.org/download.html",
   "version": "2.2",
   "docfile": "check_spop.md",
   "tags": [

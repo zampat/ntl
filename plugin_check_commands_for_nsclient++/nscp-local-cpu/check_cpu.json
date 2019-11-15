@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-cpu",
+  "source_project_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-cpu",
   "version": "",
   "docfile": "check_cpu.md",
   "tags": [

@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://github.com/justintime/nagios-plugins",
+  "source_project_url": "https://github.com/justintime/nagios-plugins",
   "version": "",
   "docfile": "check_mem.md",
   "tags": [

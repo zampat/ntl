@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "http://nagios.manubulon.com/check_snmp_storage.pl",
+  "source_project_url": "http://nagios.manubulon.com/check_snmp_storage.pl",
   "version": "1.3.3",
   "docfile": "check_snmp_storage.md",
   "tags": [

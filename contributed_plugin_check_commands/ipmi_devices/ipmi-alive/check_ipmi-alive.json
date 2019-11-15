@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#ipmi-alive",
+  "source_project_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#ipmi-alive",
   "version": "",
   "docfile": "check_ipmi_alive.md",
   "tags": [

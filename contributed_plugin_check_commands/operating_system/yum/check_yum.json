@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://github.com/calestyo/check_yum/blob/master/check_yum",
+  "source_project_url": "https://github.com/calestyo/check_yum/blob/master/check_yum",
   "version": "1.1.0",
   "docfile": "check_yum.md",
   "tags": [

@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://labs.consol.de/assets/downloads/nagios/check_nwc_health-7.10.0.1.tar.gz",
+  "source_project_url": "https://labs.consol.de/assets/downloads/nagios/check_nwc_health-7.10.0.1.tar.gz",
   "version": "7.10.0.1",
   "docfile": "check_nwc_health.md",
   "tags": [

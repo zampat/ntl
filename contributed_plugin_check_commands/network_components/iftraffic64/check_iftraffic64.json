@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://exchange.icinga.com/exchange/iftraffic64",
+  "source_project_url": "https://exchange.icinga.com/exchange/iftraffic64",
   "version": "",
   "docfile": "check_iftraffic.md",
   "tags": [

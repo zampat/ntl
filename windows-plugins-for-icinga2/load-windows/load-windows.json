@@ -1,6 +1,6 @@
 {
   "source_type": "msi",
-  "source_url": "https://packages.icinga.com/windows/",
+  "source_project_url": "https://packages.icinga.com/windows/",
   "version": "2.10.4",
   "docfile": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#load-windows",
   "custom_attr": [

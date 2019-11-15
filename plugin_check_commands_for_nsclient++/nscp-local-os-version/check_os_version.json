@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-os-version",
+  "source_project_url": "https://icinga.com/docs/icinga2/latest/doc/10-icinga-template-library/#nscp-local-os-version",
   "version": "",
   "docfile": "check_os_version.md",
   "tags": [

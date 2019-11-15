@@ -1,6 +1,6 @@
 {
   "source_type": "html",
-  "source_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
+  "source_project_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
   "version": "",
   "docfile": "check_glusterfs.md",
   "tags": [

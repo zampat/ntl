@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "http://search.cpan.org/~roland/jmx4perl/scripts/check_jmx4perl",
+  "source_project_url": "http://search.cpan.org/~roland/jmx4perl/scripts/check_jmx4perl",
   "version": "1.12",
   "docfile": "check_jmx4perl.md",
   "tags": [

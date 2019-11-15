@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "http://nagios.manubulon.com/check_snmp_process.pl",
+  "source_project_url": "http://nagios.manubulon.com/check_snmp_process.pl",
   "version": "1.5",
   "docfile": "check_snmp_process.md",
   "tags": [

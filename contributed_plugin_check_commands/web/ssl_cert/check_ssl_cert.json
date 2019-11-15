@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://github.com/lbetz/check_ssl_cert",
+  "source_project_url": "https://github.com/lbetz/check_ssl_cert",
   "version": "",
   "docfile": "check_ssl_cert.md",
   "tags": [

@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://github.com/anchor/nagios-plugin-elasticsearch/blob/master/check_elasticsearch",
+  "source_project_url": "https://github.com/anchor/nagios-plugin-elasticsearch/blob/master/check_elasticsearch",
   "version": "",
   "docfile": "check_elasticsearch.md",
   "tags": [

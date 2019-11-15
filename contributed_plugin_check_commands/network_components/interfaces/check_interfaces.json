@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://github.com/NETWAYS/check_interfaces",
+  "source_project_url": "https://github.com/NETWAYS/check_interfaces",
   "version": "1.4",
   "docfile": "check_iftraffic.md",
   "tags": [

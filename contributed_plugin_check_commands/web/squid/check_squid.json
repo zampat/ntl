@@ -1,6 +1,6 @@
 {
   "source_type": "http",
-  "source_url": "https://exchange.icinga.com/exchange/check_squid/files/448/check_squid",
+  "source_project_url": "https://exchange.icinga.com/exchange/check_squid/files/448/check_squid",
   "version": "1.1",
   "docfile": "check_squid.md",
   "tags": [

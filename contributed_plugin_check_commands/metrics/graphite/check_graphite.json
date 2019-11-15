@@ -1,6 +1,6 @@
 {
   "source_type": "git",
-  "source_url": "https://github.com/obfuscurity/nagios-scripts/blob/master/check_graphite",
+  "source_project_url": "https://github.com/obfuscurity/nagios-scripts/blob/master/check_graphite",
   "version": "",
   "docfile": "check_graphite.md",
   "tags": [
