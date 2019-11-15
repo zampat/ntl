@@ -14,7 +14,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigates": "no",
-  "category": "",
-  "downloadable": "no",
-  "plugin_url": ""
+  "category": "web",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_rbl/master/check_rbl"
 }
