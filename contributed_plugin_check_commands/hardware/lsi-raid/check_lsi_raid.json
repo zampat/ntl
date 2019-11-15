@@ -13,6 +13,6 @@
   "source_path": "",
   "to_be_investigates": "no",
   "category": "hardware",
-  "downloadable": "no",
+  "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_lsi_raid/master/check_lsi_raid"
 }
