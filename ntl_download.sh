@@ -29,7 +29,7 @@ WORK_DIR=/var/tmp
 ## register the cleanup function to be called on the EXIT signal
 #trap cleanup EXIT
 
-MONITORING_PLUGINS_CONTRIB_DIR="/neteye/shared/monitoring/plugins"
+MONITORING_PLUGINS_CONTRIB_DIR="/neteye/shared/monitoring/plugins/"
 #MONITORING_PLUGINS_CONTRIB_DIR="$1"
 DATE=`date +%Y%m%d`
 
@@ -69,18 +69,18 @@ do
         echo "WORK_DIR/PLUGIN_FILE=${WORK_DIR}/${PLUGIN_FILE}"
 
         # Check if Plugin already exists. If yes: backup first
-        if [ -f ${MONITORING_PLUGINS_CONTRIB_DIR}/${!PLUGIN_FILE} ]
+        if [ -f ${MONITORING_PLUGINS_CONTRIB_DIR}/${PLUGIN_FILE} ]
         then
              #Verify if existing version is already up-to-date
-             diff ${MONITORING_PLUGINS_CONTRIB_DIR}/${!PLUGIN_FILE} ${WORK_DIR}/${!PLUGIN_FILE} > /dev/null
+             diff ${MONITORING_PLUGINS_CONTRIB_DIR}/${PLUGIN_FILE} ${WORK_DIR}/${PLUGIN_FILE} > /dev/null
              RES=$?
              if [ $RES -eq 0 ]
              then
                 continue
              fi
 
-             echo "[+] Creating Backup of ${!PLUGIN_FILE}"
-             cp --force ${MONITORING_PLUGINS_CONTRIB_DIR}/${!PLUGIN_FILE} ${MONITORING_PLUGINS_CONTRIB_DIR}/${!PLUGIN_FILE}.${DATE}_bak
+             echo "[+] Creating Backup of ${PLUGIN_FILE}"
+             cp --force ${MONITORING_PLUGINS_CONTRIB_DIR}/${PLUGIN_FILE} ${MONITORING_PLUGINS_CONTRIB_DIR}/${PLUGIN_FILE}.${DATE}_bak
         fi
         #cp ${!PLUGIN_SRC} ${MONITORING_PLUGINS_CONTRIB_DIR}
         cp ${WORK_DIR}/${PLUGIN_FILE} ${MONITORING_PLUGINS_CONTRIB_DIR}
