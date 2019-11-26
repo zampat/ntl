@@ -27,7 +27,7 @@ Principally all improvements provided by this repository support an incremental 
 To update and install latest ntl plugins at any later moment:
 
 ```
-cd neteye4
+cd ntl
 git fetch
 git pull
 ./ntl_download.sh
