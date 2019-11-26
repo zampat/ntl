@@ -1,35 +1,45 @@
-# NetEye Template Library - NTL
+# Neteye Configurations and Template Library Setup
 
-Collection of monitoring plugins including metadata to support a standard deployment with NetEye 4.
+Open source library of monitoring templates for Icinga2. Those templates work in addition to the Icinga2 Template Library (ITL) and can be [installed from repository](https://github.com/zampat/icinga2-monitoring-templates)
 
-This Repository comes with the aim of an integrative for "neteye4" repository.
-
-NOTICE: This Project is Work In Progress.
-
-[WP Project documentation link (Private)](https://siwuerthphoenix.atlassian.net/wiki/spaces/SCN/pages/1176633630/NetEye+Template+Library)
+With the provided steps, the content of the present repository and the monitoring templates library are installed.
 
 ## Installation and setup
 
 - Clone the present repository to a local drive on neteye
-- Start the deployment of provided scripts and fetch resources from third-party repositories by running the ntl_download.sh.
+- Start the deployment of provided scripts and fetch resources from third-party repositories by running the run_setup.sh.
+  For Details on [actions performed by run_setup.sh see documentation](../scripts/)
 
 ```
-mkdir /tmp/ns
+mkdir /tmp/ns/
 cd /tmp/ns
-git clone https://github.com/zampat/ntl
-cd ntl
-./ntl_download.sh
+git clone https://github.com/zampat/neteye4
+cd neteye4
+./run_setup.sh
+
+systemctl restart httpd.service
+```
+
+- Import all neteye monitoring templates in Icinga2 Director DB installed within the neteyeshare   
+```
+cd /neteye/shared/httpd/neteyeshare/monitoring/monitoring-templates
+./run_import.sh
+```
 
 ## Updates from community repo
 
-Principally all improvements provided by this repository support an incremental update of your plugins. __Existing configurations are not altered.__
-To update and install latest ntl plugins at any later moment:
-
+Principally all improvements provided by this repository support an incremental update of you configuration. __Existing configurations are not altered.__
+To update and install latest neteye4 configurations, agents and update share at any later moment:
 ```
 cd neteye4
 git fetch
 git pull
-./ntl_download.sh
+./run_setup.sh
 ```
-
-
+To update the neteye4 monitoring template library at any later moment and inject templates to Director:
+```
+cd /neteye/shared/httpd/neteyeshare/monitoring/monitoring-templates
+git fetch
+git pull
+./run_import.sh
+```
