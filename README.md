@@ -24,6 +24,7 @@ cd ntl
 
 Principally all improvements provided by this repository support an incremental update of your plugins. __Existing configurations are not altered.__
 To update and install latest ntl plugins at any later moment:
+
 ```
 cd neteye4
 git fetch
