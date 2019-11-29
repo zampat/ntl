@@ -12,7 +12,7 @@
 #WORK_DIR=`mktemp -d -p "$DIR"`
 
 # NTL plugin temp download DIR
-WORK_DIR=/var/tmp
+WORK_DIR=/tmp/ns
 
 ## check if tmp dir was created
 #if [[ ! "$WORK_DIR" || ! -d "$WORK_DIR" ]]; then
