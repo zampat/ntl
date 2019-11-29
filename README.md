@@ -18,6 +18,8 @@ mkdir /tmp/ns
 cd /tmp/ns
 git clone https://github.com/zampat/ntl
 cd ntl
+dos2unix ntl_download.sh
+chmod +x ntl_download.sh
 ./ntl_download.sh
 ```
 
