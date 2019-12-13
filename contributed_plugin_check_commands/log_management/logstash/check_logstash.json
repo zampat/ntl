@@ -13,5 +13,6 @@
   "to_be_investigates": "no",
   "category": "log_management",
   "downloadable": "yes",
-  "plugin_url": "https://github.com/widhalmt/check_logstash/raw/master/check_logstash"
+  "plugin_url": "https://github.com/widhalmt/check_logstash/raw/master/check_logstash",
+  "already_in_product": ""
 }

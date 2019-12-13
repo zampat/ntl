@@ -15,5 +15,6 @@
   "to_be_investigates": "no",
   "category": "web",
   "downloadable": "yes",
-  "plugin_url": "https://exchange.icinga.com/exchange/check_squid/files/448/check_squid"
+  "plugin_url": "https://exchange.icinga.com/exchange/check_squid/files/448/check_squid",
+  "already_in_product": ""
 }

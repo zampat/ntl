@@ -14,5 +14,6 @@
   "to_be_investigates": "no",
   "category": "databases",
   "downloadable": "yes",
-  "plugin_url": "https://raw.githubusercontent.com/willixix/naglio-plugins/master/check_redis.pl"
+  "plugin_url": "https://raw.githubusercontent.com/willixix/naglio-plugins/master/check_redis.pl",
+  "already_in_product": ""
 }

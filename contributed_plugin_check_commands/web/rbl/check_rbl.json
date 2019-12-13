@@ -16,5 +16,6 @@
   "to_be_investigates": "no",
   "category": "web",
   "downloadable": "yes",
-  "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_rbl/master/check_rbl"
+  "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_rbl/master/check_rbl",
+  "already_in_product": ""
 }

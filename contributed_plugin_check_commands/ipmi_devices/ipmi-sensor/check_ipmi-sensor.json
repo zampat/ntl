@@ -15,5 +15,6 @@
   "to_be_investigates": "no",
   "category": "ipmi_devices",
   "downloadable": "yes",
-  "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_ipmi_sensor_v3/master/check_ipmi_sensor"
+  "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_ipmi_sensor_v3/master/check_ipmi_sensor",
+  "already_in_product": ""
 }

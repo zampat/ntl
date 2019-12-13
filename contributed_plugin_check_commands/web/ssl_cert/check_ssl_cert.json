@@ -15,5 +15,6 @@
   "to_be_investigates": "no",
   "category": "web",
   "downloadable": "yes",
-  "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_ssl_cert/master/check_ssl_cert"
+  "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_ssl_cert/master/check_ssl_cert",
+  "already_in_product": ""
 }

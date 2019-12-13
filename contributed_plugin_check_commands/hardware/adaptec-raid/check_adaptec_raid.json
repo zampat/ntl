@@ -14,5 +14,6 @@
   "to_be_investigates": "no",
   "category": "hardware",
   "downloadable": "yes",
-  "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_adaptec_raid/master/check_adaptec_raid"
+  "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_adaptec_raid/master/check_adaptec_raid",
+  "already_in_product": ""
 }

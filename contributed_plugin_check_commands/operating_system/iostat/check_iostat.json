@@ -16,5 +16,6 @@
   "to_be_investigates": "no",
   "category": "operating_system",
   "downloadable": "yes",
-  "plugin_url": "https://raw.githubusercontent.com/dnsmichi/icinga-plugins/master/scripts/check_iostat"
+  "plugin_url": "https://raw.githubusercontent.com/dnsmichi/icinga-plugins/master/scripts/check_iostat",
+  "already_in_product": ""
 }

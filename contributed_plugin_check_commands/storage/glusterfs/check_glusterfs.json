@@ -13,5 +13,6 @@
   "to_be_investigates": "no",
   "category": "storage",
   "downloadable": "yes",
-  "plugin_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs"
+  "plugin_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
+  "already_in_product": ""
 }

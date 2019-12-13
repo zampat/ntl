@@ -13,5 +13,6 @@
   "to_be_investigates": "no",
   "category": "metrics",
   "downloadable": "yes",
-  "plugin_url": "https://raw.githubusercontent.com/obfuscurity/nagios-scripts/master/check_graphite"
+  "plugin_url": "https://raw.githubusercontent.com/obfuscurity/nagios-scripts/master/check_graphite",
+  "already_in_product": ""
 }
