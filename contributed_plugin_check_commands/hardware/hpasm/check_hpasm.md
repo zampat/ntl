@@ -13,6 +13,7 @@ and alerts you if one of these components is faulty or operates outside its norm
 https://labs.consol.de/nagios/check_hpasm/index.html
 
 ##Examples
+
 ```
 nagios$ check_hpasm
 CRITICAL - dimm module 2 @ cartridge 2 needs attention (dimm is degraded)
