@@ -1,7 +1,7 @@
 {
   "source_type": "git",
   "source_project_url": "https://github.com/ceph/ceph-nagios-plugins",
-  "version": "1.5.0",
+  "version": "1.5.5",
   "docfile": "check_glusterfs.md",
   "tags": [
     "storage",
@@ -15,5 +15,5 @@
   "category": "storage",
   "downloadable": "no",
   "plugin_url": "",
-  "already_in_neteye": "yes"
+  "already_in_neteye": "no"
 }

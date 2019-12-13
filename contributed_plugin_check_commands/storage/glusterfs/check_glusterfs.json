@@ -1,7 +1,7 @@
 {
   "source_type": "html",
   "source_project_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
-  "version": "",
+  "version": "508",
   "docfile": "check_glusterfs.md",
   "tags": [
     "storage",
@@ -14,5 +14,5 @@
   "category": "storage",
   "downloadable": "yes",
   "plugin_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
-  "already_in_neteye": "yes"
+  "already_in_neteye": "no"
 }
