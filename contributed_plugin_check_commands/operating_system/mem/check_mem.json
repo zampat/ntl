@@ -11,9 +11,9 @@
   "grafana_dashboard": "",
   "director_basket": "",
   "source_path": "",
-  "to_be_investigates": "no",
+  "to_be_investigated": "no",
   "category": "operating_system",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/justintime/nagios-plugins/master/check_mem/check_mem.pl",
-  "already_in_product": ""
+  "already_in_neteye": ""
 }

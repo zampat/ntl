@@ -13,9 +13,9 @@
   "grafana_dashboard": "",
   "director_basket": "",
   "source_path": "",
-  "to_be_investigates": "no",
+  "to_be_investigated": "no",
   "category": "virtualization",
   "downloadable": "yes",
   "plugin_url": "https://www.claudiokuenzler.com/monitoring-plugins/check_esxi_hardware.py",
-  "already_in_product": ""
+  "already_in_neteye": ""
 }

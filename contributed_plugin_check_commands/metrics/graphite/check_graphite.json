@@ -10,9 +10,9 @@
   "grafana_dashboard": "",
   "director_basket": "",
   "source_path": "",
-  "to_be_investigates": "no",
+  "to_be_investigated": "no",
   "category": "metrics",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/obfuscurity/nagios-scripts/master/check_graphite",
-  "already_in_product": ""
+  "already_in_neteye": ""
 }

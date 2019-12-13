@@ -12,9 +12,9 @@
   "grafana_dashboard": "dash.json",
   "director_basket": "basket.json",
   "source_path": "",
-  "to_be_investigates": "no",
+  "to_be_investigated": "no",
   "category": "",
   "downloadable": "no",
   "plugin_url": "",
-  "already_in_product": ""
+  "already_in_neteye": ""
 }

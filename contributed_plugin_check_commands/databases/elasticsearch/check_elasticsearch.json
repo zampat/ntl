@@ -11,9 +11,9 @@
   "grafana_dashboard": "",
   "director_basket": "",
   "source_path": "",
-  "to_be_investigates": "no",
+  "to_be_investigated": "no",
   "category": "databases",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/anchor/nagios-plugin-elasticsearch/master/check_elasticsearch",
-  "already_in_product": ""
+  "already_in_neteye": ""
 }

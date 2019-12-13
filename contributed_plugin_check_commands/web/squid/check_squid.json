@@ -12,9 +12,9 @@
   "grafana_dashboard": "",
   "director_basket": "",
   "source_path": "",
-  "to_be_investigates": "no",
+  "to_be_investigated": "no",
   "category": "web",
   "downloadable": "yes",
   "plugin_url": "https://exchange.icinga.com/exchange/check_squid/files/448/check_squid",
-  "already_in_product": ""
+  "already_in_neteye": ""
 }
