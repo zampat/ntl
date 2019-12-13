@@ -3,8 +3,9 @@ Checks by snmp v1 or v3 windows specific health monitoring (service state for no
 
 http://nagios.manubulon.com/snmp_windows.html
 
-Get help
+##Examples
 
+```
 ./check_snmp_win.pl -h
 
 snmpv3 login	./check_snmp_win.pl -H 127.0.0.1 -l login -x passwd
@@ -30,3 +31,4 @@ Result example :
 Check if dns and toto services are running	./check_snmp_win.pl -H 127.0.0.1 -C public -n dns,toto
 Result example :
 "toto" not active : CRITICAL
+```

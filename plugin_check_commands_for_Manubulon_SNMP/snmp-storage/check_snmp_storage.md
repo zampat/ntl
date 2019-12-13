@@ -15,8 +15,9 @@ Warning and critical levels can be checked based on :
 http://nagios.manubulon.com/snmp_storage.html
 
 
-Get help
+##Examples
 
+```
 ./check_snmp_storage.pl -h
 
 List all storage	./check_snmp_storage.pl -H 127.0.0.1 -C public -m zzzz -w 80 -c 81 -v
@@ -72,3 +73,4 @@ AS/400 specific
 
 Sum of all memory storages is less than 90% and 95%	
 ./check_snmp_storage.pl -H 127.0.0.1 -C public -m RAM -s -w 80% -c 90%%
+```

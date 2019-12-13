@@ -10,8 +10,9 @@ Memory segments will be added then the free memory will be checked.
 
 http://nagios.manubulon.com/snmp_mem.html
 
-Get help
+##Examples
 
+```
 ./check_snmp_mem.pl -h
 
 Verbose output	./check_snmp_mem.pl -H <IP> -C <com> -w 80 -c 81 -v
@@ -33,3 +34,4 @@ Same with no warning levels for memory
 Check memory on Cisco
 
 ./check_snmp_mem.pl -H <IP> -C <com> -I -w 90% -c 98%
+```

@@ -3,6 +3,9 @@ check_mssql_health is a plugin, which is used to monitor different parameters of
 
 https://labs.consol.de/nagios/check_mssql_health/index.html
 
+##Examples
+
+```
 nagsrv$ check_mssql_health --mode mem-pool-data-buffer-hit-ratio
 CRITICAL - buffer cache hit ratio is 71.21% | buffer_cache_hit_ratio=71.21%;90:;80:
 
@@ -28,4 +31,4 @@ OK - page life expectancy is 8950 seconds | page_life_expectancy=8950;300:;180:
 nagsrv$ check_mssql_health --mode database-backup-age --name AHLE_WORSCHT \
 --warning 72 --critical 120
 WARNING - AHLE_WORSCHT backupped 102h ago | 'AHLE_WORSCHT_bck_age'=102;72;120 'AHLE_WORSCHT_bck_time'=12
-
+```

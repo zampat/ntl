@@ -3,8 +3,9 @@ It is also possible to check memory and cpu used by one or a group of process
 
 http://nagios.manubulon.com/snmp_process.html
 
-Get help
+##Examples
 
+```
 ./check_snmp_process.pl -h
 
 snmpv3 login	./check_snmp_process.pl -H 127.0.0.1 -l login -x passwd
@@ -31,3 +32,4 @@ Check process by their full path : check process of /opt/soft/bin/ (at least one
 Check that at least 3 process but not more than 8 are running	./check_snmp_process.pl -H 127.0.0.1 -C public -n http -w 3,8 -c 0,15
 Same checks + checks maximum memory used by process (in Mb) : warning and critical levels	./check_snmp_process.pl -H 127.0.0.1 -C public -n http -w 3,8 -c 0,15 -m 9,25
 Same check but sum all CPU used by all selected process	./check_snmp_process.pl -H 127.0.0.1 -C public -n http -w 3,8 -c 0,15 -m 9,25 -u 70,99
+```

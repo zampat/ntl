@@ -2,7 +2,7 @@
   "source_type": "git",
   "source_project_url": "https://github.com/miso231/icinga2-cloudera-plugin",
   "version": "",
-  "docfile": "https://github.com/miso231/icinga2-cloudera-plugin/blob/master/readme.md",
+  "docfile": "clouder_service_status.md",
   "tags": [
     "cloudera"
   ],
@@ -13,5 +13,5 @@
   "category": "network",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/miso231/icinga2-cloudera-plugin/master/check_cloudera_service_status.py",
-  "already_in_neteye": "yes"
+  "already_in_neteye": "no"
 }

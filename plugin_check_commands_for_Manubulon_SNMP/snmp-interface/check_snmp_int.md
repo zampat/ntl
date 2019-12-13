@@ -6,8 +6,9 @@ If multiple interfaces are selected, all must be up to get an OK result
 http://nagios.manubulon.com/snmp_int.html
 
 
-Get help
+##Examples
 
+```
 ./check_snmp_int.pl -h
 
 List all interfaces	./check_snmp_int.pl -H 127.0.0.1 -C public -n zzzz -v
@@ -34,3 +35,4 @@ Check that FastEternet0/11 to 0/14 are up (Cisco)
 
 Check the eth0 usage 
 Note : no critical inbound (0)	./check_snmp_int.pl -H 127.0.0.1 -C public -n eth0 -k -w 200,400 -c 0,600
+```

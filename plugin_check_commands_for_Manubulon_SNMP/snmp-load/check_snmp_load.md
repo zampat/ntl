@@ -3,9 +3,11 @@ Works on Windows, Linux/Unix, AS400, Cisco, Cisco catalyst, HP Procurve, LinkPro
 
 http://nagios.manubulon.com/snmp_load.html
 
-Get help
+##Examples
 
+```
 ./check_snmp_load.pl -h
+
 
 Check loads on linux with Net-SNMP : checks the 1, 5 and 15 minutes load average.
 
@@ -18,3 +20,4 @@ Check cpu load (generic) : checks the %used CPU for the last minute
 Check cpu load on AS/400
 
 ./check_snmp_load.pl -H 127.0.0.1 -C public -w 98% -c 99% -T as400
+```

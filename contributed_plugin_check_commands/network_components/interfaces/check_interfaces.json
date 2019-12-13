@@ -2,7 +2,7 @@
   "source_type": "git",
   "source_project_url": "https://github.com/NETWAYS/check_interfaces",
   "version": "1.4",
-  "docfile": "check_iftraffic.md",
+  "docfile": "check_interfaces.md",
   "tags": [
     "network_component",
     "interfaces",
