@@ -14,5 +14,5 @@
   "category": "log_management",
   "downloadable": "yes",
   "plugin_url": "https://github.com/widhalmt/check_logstash/raw/master/check_logstash",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }

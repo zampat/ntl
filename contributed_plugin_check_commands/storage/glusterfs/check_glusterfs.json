@@ -14,5 +14,5 @@
   "category": "storage",
   "downloadable": "yes",
   "plugin_url": "https://www.unixadm.org/software/nagios-stuff/checks/check_glusterfs",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }

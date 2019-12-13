@@ -17,5 +17,5 @@
   "category": "virtualization",
   "downloadable": "yes",
   "plugin_url": "https://www.claudiokuenzler.com/monitoring-plugins/check_esxi_hardware.py",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }

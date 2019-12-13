@@ -16,5 +16,5 @@
   "category": "virtualization",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/BaldMansMojo/check_vmware_esx/master/check_vmware_esx.pl",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }

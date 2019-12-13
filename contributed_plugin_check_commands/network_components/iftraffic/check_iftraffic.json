@@ -16,5 +16,5 @@
   "category": "network_components",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/NETWAYS/check_iftraffic/master/check_iftraffic.pl",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }

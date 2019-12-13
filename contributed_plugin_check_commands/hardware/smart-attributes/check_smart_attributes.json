@@ -16,5 +16,5 @@
   "category": "hardware",
   "downloadable": "no",
   "plugin_url": "https://github.com/thomas-krenn/check_smart_attributes/raw/master/check_smart_attributes",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }

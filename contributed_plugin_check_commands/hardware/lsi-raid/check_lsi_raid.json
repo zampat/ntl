@@ -15,5 +15,5 @@
   "category": "hardware",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/thomas-krenn/check_lsi_raid/master/check_lsi_raid",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }

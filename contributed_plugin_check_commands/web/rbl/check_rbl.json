@@ -17,5 +17,5 @@
   "category": "web",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_rbl/master/check_rbl",
-  "already_in_neteye": ""
+  "already_in_neteye": "yes"
 }
