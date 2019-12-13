@@ -1,1 +1,0 @@
-Check docs and examples

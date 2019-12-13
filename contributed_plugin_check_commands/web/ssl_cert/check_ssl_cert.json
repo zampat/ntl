@@ -1,7 +1,7 @@
 {
   "source_type": "git",
   "source_project_url": "https://github.com/matteocorti/check_ssl_cert",
-  "version": "",
+  "version": "1.106.0",
   "docfile": "check_ssl_cert.md",
   "tags": [
     "certificate",
@@ -16,5 +16,5 @@
   "category": "web",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/matteocorti/check_ssl_cert/master/check_ssl_cert",
-  "already_in_neteye": "yes"
+  "already_in_neteye": "no"
 }
