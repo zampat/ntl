@@ -1,7 +1,7 @@
 {
   "source_type": "git",
   "source_project_url": "https://github.com/bucardo/check_postgres",
-  "version": "2.24",
+  "version": "2.25",
   "docfile": "check_postgres.md",
   "tags": [
     "database",
