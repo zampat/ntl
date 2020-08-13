@@ -2,7 +2,7 @@
   "source_type": "git",
   "source_project_url": "https://github.com/miso231/icinga2-cloudera-plugin",
   "version": "",
-  "docfile": "clouder_service_status.md",
+  "docfile": "cloudera_service_status.md",
   "tags": [
     "cloudera"
   ],
