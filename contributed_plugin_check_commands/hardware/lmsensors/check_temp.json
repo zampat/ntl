@@ -1,0 +1,18 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/jackbenny/check_temp",
+  "version": "1.0",
+  "docfile": "check_temp.md",
+  "tags": [
+    "hardware",
+    "lm-sensors"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "hardware",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/jackbenny/check_temp/master/check_temp.sh",
+  "already_in_neteye": "yes"
+}
