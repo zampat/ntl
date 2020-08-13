@@ -1,0 +1,17 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/miso231/icinga2-cloudera-plugin",
+  "version": "",
+  "docfile": "cloudera_service_status.md",
+  "tags": [
+    "cloudera"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "network",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/miso231/icinga2-cloudera-plugin/master/check_cloudera_hdfs_files.py",
+  "already_in_neteye": "no"
+}
