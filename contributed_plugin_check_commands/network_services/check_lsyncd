@@ -1,0 +1,18 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/ohitz/check_lsyncd",
+  "version": "",
+  "docfile": "check_lsyncd.md",
+  "tags": [
+    "network_services",
+    "lsyncd"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "network_services",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/ohitz/check_lsyncd/master/check_lsyncd",
+  "already_in_neteye": "no"
+}
