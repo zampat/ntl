@@ -1,5 +1,5 @@
 {
-  "source_type": "git",
+  "source_type": "html",
   "source_project_url": "https://labs.consol.de/nagios/check_nwc_health/",
   "version": "7.10.1.5",
   "docfile": "check_nwc_health.md",
