@@ -5,7 +5,7 @@ https://github.com/dnsmichi/check-sar-perf
 # ./check_sar_perf.py <profile1> [<profile2> <profile3> ...]
 ```
 
-##Example
+## Example
 ```
 check_sar_perf.py cpu
 sar OK| CPU=all user=59.90 nice=0.00 system=4.46 iowait=0.00 steal=0.00 idle=35.64
