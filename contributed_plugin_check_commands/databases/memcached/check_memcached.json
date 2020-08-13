@@ -1,0 +1,18 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://exchange.icinga.com/exchange/check_memcached",
+  "version": "1.3",
+  "docfile": "check_memcached.md",
+  "tags": [
+    "database",
+    "memcached"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "",
+  "downloadable": "yes",
+  "plugin_url": "https://exchange.icinga.com/exchange/check_memcached/files/725/13-09-16_02-39-11_check_memcached.ls",
+  "already_in_neteye": "no"
+}
