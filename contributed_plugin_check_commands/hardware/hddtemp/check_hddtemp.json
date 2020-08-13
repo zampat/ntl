@@ -1,0 +1,19 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/vint21h/nagios-check-hddtemp",
+  "version": "",
+  "docfile": "check_hddtemp.md",
+  "tags": [
+    "hardware",
+    "lsi raid",
+    "health"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "hardware",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/vint21h/nagios-check-hddtemp/master/check_hddtemp.py",
+  "already_in_neteye": "no"
+}
