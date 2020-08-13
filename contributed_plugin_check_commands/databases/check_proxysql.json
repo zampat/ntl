@@ -1,0 +1,18 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/sysown/proxysql-nagios",
+  "version": "1.0.0",
+  "docfile": "check_proxysql.md",
+  "tags": [
+    "database",
+    "proxysql"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/sysown/proxysql-nagios/master/proxysql-nagios",
+  "already_in_neteye": "no"
+}
