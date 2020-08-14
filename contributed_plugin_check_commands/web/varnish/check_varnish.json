@@ -1,0 +1,20 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/varnish/varnish-nagios",
+  "version": "",
+  "docfile": "check_varnish.md",
+  "tags": [
+    "certificate",
+    "check_ssl_cert",
+    "web",
+    "ssl"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "web",
+  "downloadable": "no",
+  "plugin_url": "https://github.com/varnish/varnish-nagios",
+  "already_in_neteye": "no"
+}
