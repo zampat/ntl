@@ -4,10 +4,8 @@
   "version": "",
   "docfile": "check_varnish.md",
   "tags": [
-    "certificate",
-    "check_ssl_cert",
     "web",
-    "ssl"
+    "varnish"
   ],
   "grafana_dashboard": "",
   "director_basket": "",
