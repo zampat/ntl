@@ -1,7 +1,7 @@
 {
   "source_type": "git",
   "source_project_url": "https://github.com/BaldMansMojo/check_vmware_esx",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "docfile": "check_vmware_esx.md",
   "tags": [
     "vmware_esx",
@@ -16,5 +16,5 @@
   "category": "virtualization",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/BaldMansMojo/check_vmware_esx/master/check_vmware_esx.pl",
-  "already_in_neteye": "yes"
+  "already_in_neteye": "no"
 }
