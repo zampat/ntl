@@ -1,5 +1,5 @@
 {
-  "source_type": "git",
+  "source_type": "html",
   "source_project_url": "https://salsa.debian.org/nagios-team/pkg-nagios-plugins-contrib/blob/master/check_haproxy/check_haproxy",
   "version": "",
   "docfile": "check_haproxy.md",
