@@ -1,0 +1,18 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/knorrie/python-btrfs/",
+  "version": "11",
+  "docfile": "python-btrfs.md",
+  "tags": [
+    "storage",
+    "glusterfs"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "storage",
+  "downloadable": "no",
+  "plugin_url": "",
+  "already_in_neteye": "no"
+}
