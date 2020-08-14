@@ -1,0 +1,18 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/regilero/check_phpfpm_status",
+  "version": "",
+  "docfile": "check_phpfpm_status.md",
+  "tags": [
+    "web",
+    "phpfpm"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "web",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/regilero/check_phpfpm_status/master/check_phpfpm_status.pl",
+  "already_in_neteye": "no"
+}
