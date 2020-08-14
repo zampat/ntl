@@ -1,7 +1,7 @@
 {
   "source_type": "git",
   "source_project_url": "https://github.com/lbetz/check_apache_status",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "docfile": "check_apache_status.md",
   "tags": [
     "apache_status",
