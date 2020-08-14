@@ -1,0 +1,18 @@
+{
+  "source_type": "git",
+  "source_project_url": "https://github.com/fail2ban/fail2ban/tree/master/files/nagios",
+  "version": "",
+  "docfile": "check_fail2ban.md",
+  "tags": [
+    "network_services",
+    "fail2ban"
+  ],
+  "grafana_dashboard": "",
+  "director_basket": "",
+  "source_path": "",
+  "to_be_investigated": "no",
+  "category": "network_services",
+  "downloadable": "yes",
+  "plugin_url": "https://raw.githubusercontent.com/fail2ban/fail2ban/master/files/nagios/check_fail2ban",
+  "already_in_neteye": "no"
+}
