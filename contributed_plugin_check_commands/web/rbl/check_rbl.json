@@ -1,7 +1,7 @@
 {
   "source_type": "git",
   "source_project_url": "https://github.com/matteocorti/check_rbl",
-  "version": "1.5.2",
+  "version": "1.5.4",
   "docfile": "check_rbl.md",
   "tags": [
     "rbl",
