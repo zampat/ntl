@@ -1,5 +1,5 @@
 {
-  "source_type": "html",
+  "source_type": "tar",
   "source_project_url": "https://labs.consol.de/nagios/check_db2_health/index.html",
   "version": "1.1.2.2",
   "docfile": "check_db2_health.md",
@@ -10,10 +10,10 @@
   ],
   "grafana_dashboard": "",
   "director_basket": "",
-  "source_path": "",
+  "source_path": "check_db2_health-1.1.2.2",
   "to_be_investigated": "no",
   "category": "",
   "downloadable": "no",
-  "plugin_url": "",
+  "plugin_url": "https://labs.consol.de/assets/downloads/nagios/check_db2_health-1.1.2.2.tar.gz",
   "already_in_neteye": "no"
 }
