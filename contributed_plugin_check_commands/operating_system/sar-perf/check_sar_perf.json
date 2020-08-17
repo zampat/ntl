@@ -13,7 +13,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigated": "no",
-  "category": "",
+  "category": "operating_system",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/dnsmichi/check-sar-perf/master/check_sar_perf.py",
   "already_in_neteye": "no"
