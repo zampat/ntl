@@ -1,5 +1,5 @@
 {
-  "source_type": "html",
+  "source_type": "tar",
   "source_project_url": "https://labs.consol.de/nagios/check_mysql_health/index.html",
   "version": "2.2.2",
   "docfile": "check_mysql_health.md",
@@ -11,10 +11,10 @@
   ],
   "grafana_dashboard": "",
   "director_basket": "",
-  "source_path": "",
+  "source_path": "check_mysql_health-2.2.2",
   "to_be_investigated": "no",
   "category": "databases",
   "downloadable": "no",
-  "plugin_url": "",
+  "plugin_url": "https://labs.consol.de/assets/downloads/nagios/check_mysql_health-2.2.2.tar.gz",
   "already_in_neteye": "no"
 }
