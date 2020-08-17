@@ -1,6 +1,6 @@
 {
-  "source_type": "html",
-  "source_project_url": "https://labs.consol.de/nagios/check_logfiles/",
+  "source_type": "tar",
+  "source_project_url": "https://labs.consol.de/nagios/check_logfiles/index.html",
   "version": "3.12",
   "docfile": "check_logfiles.md",
   "tags": [
@@ -8,10 +8,10 @@
   ],
   "grafana_dashboard": "",
   "director_basket": "",
-  "source_path": "",
+  "source_path": "check_logfiles-3.12",
   "to_be_investigated": "no",
   "category": "log_management",
   "downloadable": "no",
-  "plugin_url": "",
+  "plugin_url": "https://labs.consol.de/assets/downloads/nagios/check_logfiles-3.12.tar.gz",
   "already_in_neteye": "no"
 }
