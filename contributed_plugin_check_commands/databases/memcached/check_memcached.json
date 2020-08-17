@@ -11,7 +11,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigated": "no",
-  "category": "",
+  "category": "databases",
   "downloadable": "yes",
   "plugin_url": "https://exchange.icinga.com/exchange/check_memcached/files/725/13-09-16_02-39-11_check_memcached.ls",
   "already_in_neteye": "no"
