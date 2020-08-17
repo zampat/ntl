@@ -1,6 +1,6 @@
 {
-  "source_type": "html",
-  "source_project_url": "https://labs.consol.de/nagios/check_nwc_health/",
+  "source_type": "tar",
+  "source_project_url": "https://labs.consol.de/nagios/check_nwc_health/index.html",
   "version": "7.12.1.2",
   "docfile": "check_nwc_health.md",
   "tags": [
@@ -14,10 +14,10 @@
   ],
   "grafana_dashboard": "",
   "director_basket": "",
-  "source_path": "",
+  "source_path": "check_nwc_health-7.12.1.2",
   "to_be_investigated": "no",
   "category": "network_components",
   "downloadable": "no",
-  "plugin_url": "",
+  "plugin_url": "https://labs.consol.de/assets/downloads/nagios/check_nwc_health-7.12.1.2.tar.gz",
   "already_in_neteye": "yes"
 }
