@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Script action:
-# Copy NTL monitoring plugins into PluginsContribDir/ folder
-#
+# Check and download all ITL Contributed CheckCommand plugins into PluginsContribDir/ folder
+# 
 
 # NTL plugin temp download DIR
 WORK_DIR=/tmp/ns
