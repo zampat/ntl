@@ -1,5 +1,5 @@
 {
-  "source_type": "html",
+  "source_type": "tar",
   "source_project_url": "https://labs.consol.de/nagios/check_oracle_health/index.html",
   "version": "3.2.1.2",
   "docfile": "check_oracle_health.md",
@@ -10,10 +10,10 @@
   ],
   "grafana_dashboard": "",
   "director_basket": "",
-  "source_path": "",
+  "source_path": "check_oracle_health-3.2.1.2",
   "to_be_investigated": "no",
   "category": "databases",
   "downloadable": "no",
-  "plugin_url": "",
+  "plugin_url": "https://labs.consol.de/assets/downloads/nagios/check_oracle_health-3.2.1.2.tar.gz",
   "already_in_neteye": "yes"
 }
