@@ -10,7 +10,7 @@
   "director_basket": "",
   "source_path": "",
   "to_be_investigated": "no",
-  "category": "network",
+  "category": "big_data",
   "downloadable": "yes",
   "plugin_url": "https://raw.githubusercontent.com/miso231/icinga2-cloudera-plugin/master/check_cloudera_hdfs_space.py",
   "already_in_neteye": "no"
