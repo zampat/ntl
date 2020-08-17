@@ -12,7 +12,7 @@
   "director_basket": "",
   "source_path": "check_db2_health-1.1.2.2",
   "to_be_investigated": "no",
-  "category": "",
+  "category": "databases",
   "downloadable": "no",
   "plugin_url": "https://labs.consol.de/assets/downloads/nagios/check_db2_health-1.1.2.2.tar.gz",
   "already_in_neteye": "no"
